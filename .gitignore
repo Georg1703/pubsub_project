@@ -1,0 +1,7 @@
+.venv
+__pycache__
+test.db
+.terraform
+.pytest_cache
+*.tfstate
+auth.json

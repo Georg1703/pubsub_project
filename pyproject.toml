@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "simple"
+version = "0.1.0"
+description = ""
+authors = ["Gheorghe Mirca <giony.mirca@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+google-cloud-pubsub = "^2.21.2"
+fastapi = "^0.111.0"
+sqlalchemy = "^2.0.30"
+pytest = "^8.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
