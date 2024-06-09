@@ -24,15 +24,13 @@ git clone git@github.com:Georg1703/pubsub_project.git
 cd pubsub_project
 ```
 
-
-
 **2. Start the project:**
 
 ```sh
 make start
 ```
 
-At this moment service is appp and running, visit **http://localhost:8000/docs** to check existing endpoints.
+At this moment service is up and running, visit **http://localhost:8000/docs** to check existing endpoints.
 
 **3. Run the tests:**
 
